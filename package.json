@@ -1,0 +1,27 @@
+{
+  "name": "@c91-tst/c91-tst-packages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/abhic91/c91-tst-packages.git",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "lerna": "^4.0.0",
+    "rimraf": "^3.0.2"
+  },
+  "scripts": {
+    "new-version": "lerna version"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "@babel/cli": "^7.16.0",
+    "@babel/preset-env": "^7.16.5",
+    "@babel/preset-react": "^7.16.5",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@mui/material": "^5.2.5",
+    "cross-env": "^7.0.3"
+  }
+}
