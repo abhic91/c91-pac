@@ -1,9 +1,8 @@
 {
   "name": "@c91-tst/datepicker",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": false,
   "main": "dist/index.js",
-  "dependencies": {},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
