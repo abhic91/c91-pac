@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "private": false,
   "main": "dist/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -45,5 +48,6 @@
     "@storybook/manager-webpack5": "^6.4.9",
     "@storybook/react": "^6.4.9",
     "babel-loader": "^8.2.3"
-  }
+  },
+  "gitHead": "265b1bfa35b5116a32f5a8f7083dec9d0b601082"
 }

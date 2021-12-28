@@ -4,7 +4,7 @@
   "main": "index.js",
   "repository": "https://github.com/abhic91/c91-tst-packages.git",
   "license": "MIT",
-  "private": false,
+  "private": true,
   "devDependencies": {
     "lerna": "^4.0.0",
     "rimraf": "^3.0.2"
