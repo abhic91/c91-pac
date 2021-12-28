@@ -4,7 +4,7 @@ import Button from "@mui/material/Button";
 export default function Datepicker() {
   return (
     <div>
-      <Button>Calendar btn C</Button>
+      <Button>Calendar btn </Button>
       <input type="date" />
     </div>
   );

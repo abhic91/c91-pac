@@ -1,8 +1,8 @@
 import React from 'react';
-import MButton from '@mui/material/Button';
+import MatButton from '@mui/material/Button';
 
 
 
 export default function Button(props){
-    return <MButton {...props}>{props.children}</MButton>
+    return <MatButton {...props}>{props.children}</MatButton>
 }
