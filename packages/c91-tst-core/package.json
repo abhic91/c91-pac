@@ -59,7 +59,10 @@
   "peerDependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "5.0.0"
+    "react-scripts": "5.0.0",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@mui/material": "^5.2.5"
   },
   "gitHead": "265b1bfa35b5116a32f5a8f7083dec9d0b601082"
 }
